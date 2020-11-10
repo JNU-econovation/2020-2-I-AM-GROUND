@@ -77,11 +77,10 @@
      - ex) mywnajsldkf.md
 
 4. 자신이 만든 브랜치를 `origin/자신의 브랜치`로 `push`합니다.
-	
-		<details>
+	<details>
       	<summary>확인하기</summary>
 		<div markdown="1">
-			<pre>git push origin {자신의 브랜치 이름}</pre>
+        <pre>git push origin {자신의 브랜치 이름}</pre>
     </div>
 	 </details>
 	
