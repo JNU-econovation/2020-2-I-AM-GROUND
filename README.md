@@ -86,9 +86,9 @@
 	
 5. GitHub에서 `자신의 브랜치`에서 `master`브랜치로 Pull Request 날립니다.
 
-   - 제목은 '자신의 GitHub 아이디 - 자기 소개'로 해주세요.
+   - 제목은 '자신의 이름(자신의 GitHub 아이디) - 자기 소개'로 해주세요.
 
-     ex) mywnajsldkf - 자기소개
+     ex) 김정인(mywnajsldkf) - 자기소개
 
    - Pull Request 내용은 한줄로 간단하게 자신을 소개하는 내용을 담아주세요.
 
